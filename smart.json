@@ -1,0 +1,8 @@
+{
+	"name": "threejs-ogv",
+	"description": "Latest Three.js packaged for meteor",
+	"homepage": "https://github.com/inderpreetsingh/meteor-threejs-ogv",
+	"author": "Inderpreet Singh",
+	"version": "1.67.0",
+	"git": "https://github.com/inderpreetsingh/meteor-threejs-ogv"
+}
